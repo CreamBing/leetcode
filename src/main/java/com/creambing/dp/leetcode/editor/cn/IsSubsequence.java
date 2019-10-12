@@ -23,7 +23,7 @@
 // 特别感谢 @pbrother 添加此问题并且创建所有测试用例。 
 // Related Topics 贪心算法 二分查找 动态规划
 
-package com.creambing.leetcode.editor.cn.dp;
+package com.creambing.dp.leetcode.editor.cn;
 
 public class IsSubsequence {
     public static void main(String[] args) {

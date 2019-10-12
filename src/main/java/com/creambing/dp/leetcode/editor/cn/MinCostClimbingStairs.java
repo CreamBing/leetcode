@@ -28,7 +28,7 @@
 // 
 // Related Topics 数组 动态规划
 
-package com.creambing.leetcode.editor.cn.dp;
+package com.creambing.dp.leetcode.editor.cn;
 
 public class MinCostClimbingStairs {
     public static void main(String[] args) {

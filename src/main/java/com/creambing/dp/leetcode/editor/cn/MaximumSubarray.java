@@ -12,7 +12,7 @@
 // 如果你已经实现复杂度为 O(n) 的解法，尝试使用更为精妙的分治法求解。 
 // Related Topics 数组 分治算法 动态规划
 
-package com.creambing.leetcode.editor.cn.dp;
+package com.creambing.dp.leetcode.editor.cn;
 
 public class MaximumSubarray {
     public static void main(String[] args) {

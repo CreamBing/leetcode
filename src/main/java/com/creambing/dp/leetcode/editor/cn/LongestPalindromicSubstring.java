@@ -14,7 +14,7 @@
 // 
 // Related Topics 字符串 动态规划
 
-package com.creambing.leetcode.editor.cn.dp;
+package com.creambing.dp.leetcode.editor.cn;
 
 public class LongestPalindromicSubstring {
     public static void main(String[] args) {

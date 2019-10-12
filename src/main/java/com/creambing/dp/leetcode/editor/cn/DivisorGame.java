@@ -39,7 +39,7 @@
 // 
 // Related Topics 数学 动态规划
 
-package com.creambing.leetcode.editor.cn.dp;
+package com.creambing.dp.leetcode.editor.cn;
 
 public class DivisorGame {
     public static void main(String[] args) {
