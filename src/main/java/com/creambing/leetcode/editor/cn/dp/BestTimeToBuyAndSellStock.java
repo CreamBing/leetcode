@@ -20,7 +20,7 @@
 // 
 // Related Topics 数组 动态规划
 
-package com.creambing.leetcode.editor.cn;
+package com.creambing.leetcode.editor.cn.dp;
 
 public class BestTimeToBuyAndSellStock {
     public static void main(String[] args) {

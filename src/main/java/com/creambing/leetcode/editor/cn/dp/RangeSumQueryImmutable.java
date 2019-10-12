@@ -16,7 +16,7 @@
 // 
 // Related Topics 动态规划
 
-package com.creambing.leetcode.editor.cn;
+package com.creambing.leetcode.editor.cn.dp;
 
 public class RangeSumQueryImmutable {
     public static void main(String[] args) {
